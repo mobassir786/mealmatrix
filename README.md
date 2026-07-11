@@ -1,5 +1,11 @@
 # MealMatrix 2.0 — Full-Stack Food Delivery Platform
 
+🔗 **Live Demo**: https://mealmatrix-self.vercel.app/
+🔗 **Backend API**: https://mealmatrix-backend-ugt9.onrender.com/health
+📦 **Source Code**: https://github.com/mobassir786/mealmatrix
+
+> Note: the backend runs on a free tier that sleeps after 15 minutes of inactivity — the first request after idle time can take 30-50 seconds to wake up. Please allow a moment on first load.
+
 A food delivery platform with an event-driven order state machine, idempotent checkout, geo-based delivery assignment, and real-time WebSocket order tracking.
 
 ## Project Structure
